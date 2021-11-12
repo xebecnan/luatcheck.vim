@@ -4,7 +4,8 @@
 
 ## Installation
 
-Install [ale][ALE] and [luatcheck.vim][] with your favorite package manager.
+1. Put `luatcheck` executable in your PATH.
+2. Install [ale][ALE] and [luatcheck.vim][] with your favorite package manager.
 
 An example with [vim-plug](https://github.com/junegunn/vim-plug):
 
