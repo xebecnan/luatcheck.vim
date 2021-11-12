@@ -1,0 +1,1 @@
+# luatcheck.vim
