@@ -4,7 +4,7 @@
 
 ## Installation
 
-1. Put `luatcheck` executable in your PATH.
+1. Put [luatcheck][] executable in your PATH.
 2. Install [ale][ALE] and [luatcheck.vim][] with your favorite package manager.
 
 An example with [vim-plug](https://github.com/junegunn/vim-plug):
@@ -19,3 +19,4 @@ Licensed under [the MIT license](./LICENSE).
 
 [ALE]: https://github.com/dense-analysis/ale
 [luatcheck.vim]: https://github.com/xebecnan/luatcheck.vim
+[luatcheck]: https://github.com/xebecnan/luatcheck
